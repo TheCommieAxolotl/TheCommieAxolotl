@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm TheCommieAxolotl</h1>
-<h3 align="center">A passionate Web and App developer!</h3>
+# Hi, I'm TheCommieAxolotl
+A passionate Web and App developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecommieaxolotl&label=Profile%20views&color=d274c2&style=flat" alt="thecommieaxolotl" /> </p>
 
