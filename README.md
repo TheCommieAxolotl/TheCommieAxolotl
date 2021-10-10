@@ -1,3 +1,3 @@
-Hi, I’m @TheCommieAxolotl
+**Hi, I’m [@TheCommieAxolotl](https://github.com/TheCommieAxolotl)**
 I’m interested in code & 3D graphics
-I’m currently learning JS and HTML
+and currently learning JS and CSS
