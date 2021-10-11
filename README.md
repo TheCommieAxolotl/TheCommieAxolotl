@@ -3,7 +3,7 @@ A passionate Web and App developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecommieaxolotl&label=Profile%20views&color=d274c2&style=flat" alt="thecommieaxolotl" /> </p>
 
-- I’m currently working on [my BetterDiscord theme](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/nightround)
+- I’m currently working on [my BetterDiscord plugin](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/CallWarnings)
 
 - I'm currently learning **JS, CSS, and Swift**
 
