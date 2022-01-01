@@ -3,7 +3,7 @@ A web/app Developer working on a couple projects...
 
 - I’m currently learning **CSS, SASS and JS**
 
-- I’m currently working on [my BetterDiscord Theme](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/Ultra)
+- I’m currently working on [my BetterDiscord Theme](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/OSX)
 
 - All of my projects are here: [TheCommieAxolotl](https://thecommieaxolotl.github.io)
 
