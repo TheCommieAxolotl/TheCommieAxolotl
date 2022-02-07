@@ -1,11 +1,4 @@
 # Hi, I'm TheCommieAxolotl
-A web/app Developer working on a couple projects...
-
-- I’m currently learning **CSS, SASS and JS**
-
-- I’m currently working on [my BetterDiscord Theme](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/OSX)
-
-- All of my projects are here: [TheCommieAxolotl](https://thecommieaxolotl.github.io/src/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
