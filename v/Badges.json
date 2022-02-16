@@ -1,0 +1,17 @@
+
+"538487970408300544": {
+    name: "Velocity Developer",
+    icon: {
+        tag: "svg",
+        width: "22",
+        height: "22",
+        viewBox: "0 0 22 22",
+        children: [
+            {
+                tag: "path",
+                color: "var(--brand-experiment)",
+                d: "M 11 3 C 13 4 14 3 18 6 C 18 8 17 12 11 18 C 5 12 4 8 4 6 C 8 3 9 4 11 3 M 12 6 C 13 8 12 10 11 12 C 10 10 9 8 10 6 C 10 6 10 6 7 6 C 8 10 9 12 11 15 C 13 12 14 10 15 6 C 13 6 12 6 12 6 Z Z Z Z",
+            },
+        ],
+    },
+},
