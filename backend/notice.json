@@ -3,6 +3,7 @@
   "notice": {
     "type": "warn",
     "title": "Maintenance",
-    "body": "The site is currently under maintenance. things might be broken!"
+    "body": "The site is currently under maintenance. things might be broken!",
+    "link": "/posts/ultra.html"
   }
 }
