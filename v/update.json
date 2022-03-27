@@ -1,7 +1,7 @@
 {
     "version": "0.2.0",
     "changelog": {
-        "description": "**Changed**\n\n- Switched to Patching for Settings!\n- Added Better Updater",
+        "description": "**Added**\n\n\n- Added Better Updater\n\n**Changed**\n\n- Switched to Patching for Settings!",
         "subtitle": "Update"
     }
 }
