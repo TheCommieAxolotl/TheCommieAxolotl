@@ -1,6 +1,6 @@
 <img id="preview-img" src="./header.png">
 
-![](https://komarev.com/ghpvc/?username=thecommieaxolotl&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=thecommieaxolotl&style=for-the-badge&color=ff69b4)
 
 ## Stats:
 <p float="left">
