@@ -1,7 +1,7 @@
 {
     "version": "0.2.1",
     "changelog": {
-        "description": "**Added**\n\n\n- Added Custom <velocity://about> and other Protocols\n\n**Changed**\n\n- A Few Restructures",
+        "description": "**Added**\n\n\n- Added Custom <velocity> Protocols\n\n**Changed**\n\n- A Few Restructures",
         "subtitle": "March 31, 2022"
     }
 }
