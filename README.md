@@ -9,5 +9,5 @@
 <p float="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheCommieAxolotl&border_color=0e1116&title_color=fff&text_color=fff&theme=nord" alt="thecommieaxolotl" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheCommieAxolotl&layout=compact&border_color=0e1116&title_color=fff&text_color=fff&theme=nord" alt="thecommieaxolotl" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheCommieAxolotl&border_color=0e1116&title_color=fff&text_color=fff&theme=nord" alt="Coding Time">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheCommieAxolotl&border_color=0e1116&title_color=fff&text_color=fff&theme=nord&langs_count=6&layout=compact&custom_title=Coding%20Time">
 </p>
