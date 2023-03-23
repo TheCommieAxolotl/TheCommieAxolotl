@@ -3,6 +3,7 @@ I make stuff for the web.
 
 Some of my projects:
 - [EtcherJS](https://etcherjs.vercel.app) - A *✨ Blazingly Fast ✨* framework to create reusable web components without touching a single line of javascript.
+- [thena](https://thenajs.vercel.app) - A simple, lightweight, and fast utility library for Node and the browser.
 - [Velocity](https://velocity-discord.netlify.app) - A simple and minimal [@discord](https://github.com/discord) modification.
 - [BetterDiscord-Stuff](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff) - My Themes and Plugins for [BetterDiscord](https://betterdiscord.app)
 - [Hydrogen](https://github.com/TheCommieAxolotl/Hydrogen) - A bare-bones web browser made with Electron and vanilla JS.
