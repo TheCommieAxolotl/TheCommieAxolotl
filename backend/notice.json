@@ -1,9 +1,0 @@
-{
-  "status": false,
-  "notice": {
-    "type": "warn",
-    "title": "Maintenance",
-    "body": "The site is currently under maintenance. things might be broken!",
-    "link": false
-  }
-}
