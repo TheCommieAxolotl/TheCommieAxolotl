@@ -14,5 +14,5 @@ Some things I want to do:
 ---
 
 <p float="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheCommieAxolotl&border_color=30363d&title_color=c9d1d9&text_color=8b949e&bg_color=161B22&langs_count=6&layout=compact&custom_title=Programming%20Time">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheCommieAxolotl&border_color=30363d&title_color=c9d1d9&text_color=8b949e&bg_color=161B22&langs_count=6&layout=compact&custom_title=Last%20Week's%20Programming%20Time">
 </p>
