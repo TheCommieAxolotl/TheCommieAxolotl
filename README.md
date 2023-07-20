@@ -1,5 +1,5 @@
-# Hey there, I'm TheCommieAxolotl 👋
-I make stuff for the web.
+# Hey there,
+I'm TheCommieAxolotl (axo) and I make stuff for the web.
 
 Some of my projects:
 - [BetterDiscord-Stuff](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff) - My Themes and Plugins for [BetterDiscord](https://betterdiscord.app)
