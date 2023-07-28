@@ -3,9 +3,9 @@ I'm TheCommieAxolotl (axo) and I make stuff for the web.
 
 Some of my projects:
 - [BetterDiscord-Stuff](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff) - My Themes and Plugins for [BetterDiscord](https://betterdiscord.app)
+- [Aero](https://github.com/aero-mod/aero) - A next-generation Discord mod empowering users and developers alike.
 - [EtcherJS](https://etcherjs.vercel.app) - A *✨ Blazingly Fast ✨* framework to create reusable web components without touching a single line of javascript.
 - [thena](https://thenajs.vercel.app) - A simple, lightweight, and fast utility library for Node and the browser.
-- [Velocity](https://velocity-discord.netlify.app) - A simple and minimal [@discord](https://github.com/discord) modification.
 - [Hydrogen](https://github.com/TheCommieAxolotl/Hydrogen) - A bare-bones web browser made with Electron and vanilla JS.
 
 Some things I want to do:
